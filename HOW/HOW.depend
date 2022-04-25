@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650769521 source:c:\users\bbmafra\desktop\how\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<bits/stdc++.h>
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
